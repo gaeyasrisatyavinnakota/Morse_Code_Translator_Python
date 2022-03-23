@@ -1,4 +1,4 @@
-# Morse_Code_Translator_Python
+# Morse Code Translator Python
 The code shown below is used to implement the Morse Code Translator in Python
 ```
 """
